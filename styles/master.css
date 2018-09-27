@@ -1,12 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Chicle');
+
 .image-block{
 max-width: 960px;
-
-
-
-
 }
 
 img{
 width: 100%;
+
+}
+
+h1{
+font-family: 'Chicle', cursive;
+
 
 }
